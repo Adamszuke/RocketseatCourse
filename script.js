@@ -16,7 +16,7 @@ function toggleMode() {
 
     if(html.classList.contains('light'))
     {
-        img.setAttribute('src', "./assets/Avatar-dark.png")
+        img.setAttribute('src', "./assets/PlayerRocket.png")
     }
     else
     {
